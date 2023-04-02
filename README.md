@@ -1,1 +1,1 @@
-DEMO: https://netflix-clone-eight-orcin.vercel.app/auth
+DEMO: netflix-clone-kszmidt.vercel.app
